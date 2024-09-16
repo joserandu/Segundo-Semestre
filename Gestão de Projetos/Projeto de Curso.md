@@ -1,4 +1,4 @@
-# Gestão de Projetos
+# Gestão de Projetos (SPOGPRO)
 
 - Número de aulas semanais: <b>5</b>
 - Total de Horas: <b>71,30</b>
