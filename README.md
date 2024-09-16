@@ -7,6 +7,10 @@
   - Início: 23/12/2024 (segunda)
   - Termino: 31/01/2025 (sexta)
 - Término: 22/02/2025 (sábado)
+- Semana dos IFAS: 24-28/02/2025
+- Feriados:
+  - Proclamação da República: 15/11/2024
+  - Consciência Negra: 20/11/2024  
 
 ## Matérias
 
