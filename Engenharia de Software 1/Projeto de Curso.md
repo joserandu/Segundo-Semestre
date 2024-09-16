@@ -56,5 +56,5 @@ abordagens de gerenciamento de projetos.
     - Abordagem clássica;
     - Abordagem ágil.
 
-<b>Fonte:</b> https://spo.ifsp.edu.br/images/phocadownload/DOCUMENTOS_MENU_LATERAL_FIXO/GRADUACAO/SISTEMAS_DE_INFORMACAO/PPC-5fev2023.pdf
+<b>Fonte:</b> https://spo.ifsp.edu.br/images/phocadownload/DOCUMENTOS_MENU_LATERAL_FIXO/GRADUACAO/SISTEMAS_DE_INFORMACAO/PPC-5fev2023.pdf <i>94-96p</i>
 
