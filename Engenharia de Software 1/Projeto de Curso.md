@@ -1,4 +1,4 @@
-# Engenharia de Software
+# Engenharia de Software 1
 
 - Número de aulas semanais: <b>5</b>
 - Total de Horas: <b>71,30</b>
@@ -9,9 +9,7 @@
 
 ## Objetivos
 
-<p>Reconhecer a natureza do software e de seu processo de desenvolvimento. Identificar e comparar os diferentes modelos de processo de desenvolvimento de software. Descrever as principais atividades do processo de desenvolvimento de software e identificar o relacionamento entre elas. Conhecer os diferentes tipos de requisitos de software. Construir documentos de visão e escopo de projeto. Estudar as diferentes técnicas de elicitação de requisitos. Negociar e priorizar requisitos. Analisar e documentar requisitos com base em modelos de documentação. Conhecer
-abordagens de gerenciamento de projetos.
-</p>
+<p>Reconhecer a natureza do software e de seu processo de desenvolvimento. Identificar e comparar os diferentes modelos de processo de desenvolvimento de software. Descrever as principais atividades do processo de desenvolvimento de software e identificar o relacionamento entre elas. Conhecer os diferentes tipos de requisitos de software. Construir documentos de visão e escopo de projeto. Estudar as diferentes técnicas de elicitação de requisitos. Negociar e priorizar requisitos. Analisar e documentar requisitos com base em modelos de documentação. Conhecer abordagens de gerenciamento de projetos.</p>
 
 ## Conteúdo Programático
 
