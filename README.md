@@ -10,3 +10,13 @@
 
 ## Matérias
 
+- Segunda-feira: Engenharia de Software (SPOENS1)
+    - Prof: Wendel Santos
+- Terça-feira: Desenvolvimento Orientado a Objetos (SPODEOO)
+    - Prof: Wendel Santos
+- Quarta-feira: Gestão de Projetos (SPOGPRO)
+    - Prof: Wendel Santos
+- Quinta-feira: Introdução ao cálculo diferencial integral (SPOCALC)
+    - Prof: João Tamanini
+- Sexta-feira: Estrutura de dados 1 (SPOEDD1)
+    - Prof: Antônio Viana
