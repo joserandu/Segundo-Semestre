@@ -1,5 +1,12 @@
 # Desenvolvimento Orientado a Objetos (SPODEOO)
 
+## Avaliação
+
+- P1 + P2 (30% da nota final cada uma)
+- Exercícios de sala de aula: 40% da média final
+
+<hl>
+
 - Número de aulas semanais: <b>5</b>
 - Total de Horas: <b>71,30</b>
 
