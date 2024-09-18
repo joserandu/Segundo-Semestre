@@ -80,11 +80,15 @@
 
 ![956492c4362836e067b6c8ce2103b4c3-28](https://github.com/user-attachments/assets/d60449b3-789a-496e-94f8-1f6dff63e520)
 
+- Stakeholders são pessoas (fisicas ou juridicas) que influenciam positivamente ou negativamente para o andamento de um projeto e cabe ao gestor tomar as atitudes quanto essas pessoas.
+
 ![956492c4362836e067b6c8ce2103b4c3-29](https://github.com/user-attachments/assets/0e28e700-f2f3-41db-a66c-acdd298b8b50)
 
 ![956492c4362836e067b6c8ce2103b4c3-30](https://github.com/user-attachments/assets/44dba047-f32f-4659-b756-4f482227297c)
 
 ![956492c4362836e067b6c8ce2103b4c3-31](https://github.com/user-attachments/assets/c869e69b-f2c0-4ae2-9945-90e4ed369818)
+
+- Pense no projeto da construção de um novo bloco aqui do if.
 
 ![956492c4362836e067b6c8ce2103b4c3-32](https://github.com/user-attachments/assets/0e85080c-3c99-4128-b941-7ed6bd2dadfd)
 
