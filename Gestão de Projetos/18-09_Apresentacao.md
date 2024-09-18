@@ -17,6 +17,11 @@
 
 <hr>
 
+## Ler o artigo:
+https://eadcampus.spo.ifsp.edu.br/pluginfile.php/1102896/mod_resource/content/1/Dificuldades%20Organizacionais%20de%20Empresas%20Indies%20de%20Desenvolvimento%20de%20Jogos%20Digitais%20%28ALENCAR%20e%20JUC%C3%81%2C%202019%29.pdf
+
+<hr>
+
 ![956492c4362836e067b6c8ce2103b4c3-0](https://github.com/user-attachments/assets/a5f85ef2-7840-4a63-a2f8-6dd355fe9ba6)
 
 ![956492c4362836e067b6c8ce2103b4c3-1](https://github.com/user-attachments/assets/87141441-35a0-4196-8e71-cddac229ad95)
@@ -111,3 +116,5 @@
 ![956492c4362836e067b6c8ce2103b4c3-41](https://github.com/user-attachments/assets/0cdb4ca1-a4ae-4c5e-978a-1266c07563be)
 
 ![956492c4362836e067b6c8ce2103b4c3-42](https://github.com/user-attachments/assets/98f9b975-f4f8-4e10-be6e-b66f97597eea)
+
+
