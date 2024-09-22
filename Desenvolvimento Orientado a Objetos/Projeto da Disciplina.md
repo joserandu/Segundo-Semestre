@@ -1,4 +1,11 @@
-# Desenvolvimento Orientado a Objetos
+# Desenvolvimento Orientado a Objetos (SPODEOO)
+
+## Avaliação
+
+- P1 + P2 (30% da nota final cada uma)
+- Exercícios de sala de aula: 40% da média final
+
+<hr>
 
 - Número de aulas semanais: <b>5</b>
 - Total de Horas: <b>71,30</b>
@@ -33,6 +40,6 @@
     - Construtores e destrutores;
     - Relacionamento de objetos e classes.
 
-<hl>
+<hr>
 
 <b>Fonte: </b>https://spo.ifsp.edu.br/images/phocadownload/DOCUMENTOS_MENU_LATERAL_FIXO/GRADUACAO/SISTEMAS_DE_INFORMACAO/PPC-5fev2023.pdf <i>97-98p</i>

@@ -16,11 +16,16 @@
 
 - Segunda-feira: Engenharia de Software (SPOENS1)
     - Prof: Wendel Santos
+    - Sala: D205
 - Terça-feira: Desenvolvimento Orientado a Objetos (SPODEOO)
     - Prof: Wendel Santos
+    - Sala: C133/C216
 - Quarta-feira: Gestão de Projetos (SPOGPRO)
     - Prof: Wendel Santos
+    - Sala: D205
 - Quinta-feira: Introdução ao cálculo diferencial integral (SPOCALC)
     - Prof: João Tamanini
+    - Sala: D205
 - Sexta-feira: Estrutura de dados 1 (SPOEDD1)
     - Prof: Antônio Viana
+    - Sala: C216

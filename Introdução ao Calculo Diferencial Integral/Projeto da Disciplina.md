@@ -1,4 +1,4 @@
-# Introdução ao Calculo Diferencial Integral
+# Introdução ao Calculo Diferencial Integral (SPOCALC)
 
 - Número de aulas semanais: <b>5</b>
 - Total de Horas: <b>71,30</b>

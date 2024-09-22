@@ -1,4 +1,4 @@
-# Estrutura de Dados 1
+# Estrutura de Dados 1 (SPOEDD1)
 
 - Número de aulas semanais: <b>5</b>
 - Total de Horas: <b>71,30</b>
