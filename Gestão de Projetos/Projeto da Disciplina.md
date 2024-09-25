@@ -3,6 +3,23 @@
 - Número de aulas semanais: <b>5</b>
 - Total de Horas: <b>71,30</b>
 
+<hr>
+
+## Avaliação 
+
+- <b>Prova Dissertativa</b>: 30% (foco na avaliação teórica)
+- <b>Projeto Prático</b>: 30% (foco na aplicação prática)
+- <b>Apresentação Oral</b>: 20% (avaliação da comunicação e domínio do projeto)
+- <b>Exercícios Moodle</b>: 20% (incentivo à participação e melhoria contínua)
+
+<p>Os Instrumentos de Avaliação da Aprendizagem terão prazos fixos estabelecidos de acordo com o cronograma do curso. Somente serão aceitas entregas fora do prazo mediante justificativas adequadas, alinhadas aos dispositivos de justificativas para Abono de Faltas descritos na Organização Didática do IFSP. É essencial que os alunos respeitem os prazos e organizem suas atividades de acordo com as datas estipuladas.</p>
+
+<p>É essencial que os alunos respeitem os prazos e organizem suas atividades de acordo com as datas estipuladas.</p>
+
+<p>Fica sujeito a Instrumento Final de Avaliação o estudante que obtenha, no componente curricular, nota semestral igual ou superior a 4,0 (quatro) e inferior a 6,0 (seis) e frequência mínima de 75% (setenta e cinco por cento) das aulas e demais atividades.</p>
+
+<hr>
+
 ## Ementa:
 
 <p>O componente curricular contempla a compreensão das áreas de conhecimento de gerenciamento de projetos segundo PMI e os fundamentos de metodologias ágeis aplicáveis na gestão de projetos, independentemente de suas naturezas, mas abordando as nuances e particularidades associadas ao desenvolvimento de sistemas de software.</p>
