@@ -13,6 +13,8 @@
 
 ![SPOEDD1-Aula03-Elementos-interligados_page-0002](https://github.com/user-attachments/assets/bb0598ad-2ec9-490c-ad49-7715b694b3cb)
 
+- Usaremos Diagramas de estado na nossa prova, não usaremos muito código.
+
 ![SPOEDD1-Aula03-Elementos-interligados_page-0003](https://github.com/user-attachments/assets/5eedcfa8-4c0b-47f5-8a79-ec4a01e3ae9c)
 
 - Se ligar o último ao primeiro, você tem uma lista circular.
@@ -34,6 +36,9 @@
 ![SPOEDD1-Aula03-Elementos-interligados_page-0012](https://github.com/user-attachments/assets/5a8b9296-822a-4686-aef3-a2120878a794)
 ![SPOEDD1-Aula03-Elementos-interligados_page-0013](https://github.com/user-attachments/assets/92ef942b-b56b-4115-938a-30db0cdbd51a)
 ![SPOEDD1-Aula03-Elementos-interligados_page-0014](https://github.com/user-attachments/assets/fa3a3158-6b87-4b1b-9a36-152089e4b3e4)
+
+- QUando tem seta, podemos inserir em mais lugares além do final;
+
 ![SPOEDD1-Aula03-Elementos-interligados_page-0015](https://github.com/user-attachments/assets/19c7794c-208d-4783-8a0a-a95ade5747ee)
 ![SPOEDD1-Aula03-Elementos-interligados_page-0016](https://github.com/user-attachments/assets/df043f9a-1eeb-4a14-a7b1-e1a924cba157)
 ![SPOEDD1-Aula03-Elementos-interligados_page-0017](https://github.com/user-attachments/assets/42c3de63-3fb9-45e3-830d-3d973a8fdd07)
