@@ -1,72 +1,58 @@
-# include <stdio.h>
-# include <locale.h>
+#include <stdio.h>
+#include <locale.h>
+
+#define TAM_MAX 100
 
 int main() {
-	setlocale(LC_ALL, "Portuguese");
-	
-	int L[100];
-	char c = 'e';
-	int i = 0;
-	
-	printf("Opções: Inserir(i); Exibir lista(e); Sair(s): ");
-	scanf("%c", &c);
-	fflush(stdin);
-	
-	while (c != 's') {
-		
-		int i = 0;
+    setlocale(LC_ALL, "Portuguese");
 
-		// Contador
-		while (L[i] != L[101]) {
-			i++;
-		} 
+    int L[TAM_MAX] = {0}; // Inicializa o array com zeros
+    char c;
+    int i;
 
-		// Exibir
+    printf("Opções: Inserir(i); Exibir lista(e); Sair(s): ");
+    scanf(" %c", &c); // Note o espaço antes de %c
 
-		if (c == 'e') {
-			
-			if (L[0] == L[101]) {
-				printf("A lista está vazia!\n");
-	
-				printf("Opções: Inserir(i); Sair(s): ");
-				scanf("%c", &c);
-				fflush(stdin);
-	
-			} else {
-				for (int j=0; j<i; j++) {
-					printf("%i: %i \n", j, L[j]);
-				}
-			}
-		
-			printf("Opções: Inserir(i); Remover o primeiro item(r); Exibir lista(e); Sair(s): ");
-			scanf("%c", &c);
-			fflush(stdin);
-			
-		} else 
-		
-		// Inserir
-		
-		if (c == 'i') {
-			
-			printf("Número: ");
-			scanf("%d", &L[i]);
-			fflush(stdin);
-			
-			printf("Opções: Inserir(i); Remover o primeiro item(r); Exibir lista(e); Sair(s): ");
-			scanf("%c", &c);
-			fflush(stdin);
-			
-		} else
-		
-		// Remover
-		
-		if (c == ''))
-		
+    while (c != 's') {
+        i = 0;
+        // Contador
+        while (i < TAM_MAX && L[i] != 0) {
+            i++;
+        }
 
-	}
-	
-	
-	// Remover o primeiro valor
-	
-	// Mostrar os elementos da fila com as suas posições e se a fila estiver vazia, retornar -1;
+        // Exibir
+        if (c == 'e') {
+            if (i == 0) {
+                printf("A lista está vazia!\n");
+            } else {
+                for (int j = 0; j < i; j++) {
+                    printf("%i: %i \n", j, L[j]);
+                }
+            }
+            printf("Opções: Inserir(i); Remover o primeiro item(r); Exibir lista(e); Sair(s): ");
+            scanf(" %c", &c);
+        } else if (c == 'i') {
+            if (i < TAM_MAX) {
+                printf("Número: ");
+                scanf("%i", &L[i]);
+            } else {
+                printf("A lista está cheia!\n");
+            }
+            printf("Opções: Inserir(i); Remover o primeiro item(r); Exibir lista(e); Sair(s): ");
+            scanf(" %c", &c);
+        } else if (c == 'r') {
+            if (i > 0) {
+                for (int j = 1; j < i; j++) {
+                    L[j - 1] = L[j];
+                }
+                L[i - 1] = 0; // Limpa o último elemento
+            } else {
+                printf("A lista está vazia!\n");
+            }
+            printf("Opções: Inserir(i); Remover o primeiro item(r); Exibir lista(e); Sair(s): ");
+            scanf(" %c", &c);
+        }
+    }
+
+    return 0;
 }
