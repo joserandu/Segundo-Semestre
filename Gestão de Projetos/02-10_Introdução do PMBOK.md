@@ -10,6 +10,9 @@
 ![7eb3551eddcd8345f5f3298e31bba64b-7](https://github.com/user-attachments/assets/1d52ef2e-c987-4c4b-92be-1ccd28360b64)
 ![7eb3551eddcd8345f5f3298e31bba64b-8](https://github.com/user-attachments/assets/639da791-3e72-46cf-82b5-007705628061)
 ![7eb3551eddcd8345f5f3298e31bba64b-9](https://github.com/user-attachments/assets/df966326-454c-4a54-8c8c-f59e8c487339)
+
+- Pesquisar: Plano de desenvolvimento institucional do IFSP. ( https://portais.ifsp.edu.br/scl/index.php/pdi.html#pdi-2024-2028 )
+
 ![7eb3551eddcd8345f5f3298e31bba64b-10](https://github.com/user-attachments/assets/19a6254d-ee3f-41e9-ab50-a960d8341151)
 ![7eb3551eddcd8345f5f3298e31bba64b-11](https://github.com/user-attachments/assets/ce330cc8-71de-475e-a12b-83fd72fe342c)
 ![7eb3551eddcd8345f5f3298e31bba64b-12](https://github.com/user-attachments/assets/35ec6263-e62b-4f5d-b1b8-fb512943cd80)
@@ -37,5 +40,8 @@
 ![7eb3551eddcd8345f5f3298e31bba64b-34](https://github.com/user-attachments/assets/2b72f224-da92-4764-bfb9-9ebd43f7b318)
 ![7eb3551eddcd8345f5f3298e31bba64b-35](https://github.com/user-attachments/assets/9c617658-eaea-4362-bd96-5e255fce5d2a)
 ![7eb3551eddcd8345f5f3298e31bba64b-36](https://github.com/user-attachments/assets/2691700b-682b-49a6-b116-0c3f8f281c14)
+
+- Ver o IDP.
+
 ![7eb3551eddcd8345f5f3298e31bba64b-37](https://github.com/user-attachments/assets/02f796fa-cb34-4a2a-91f4-75a4e12cd00e)
 ![7eb3551eddcd8345f5f3298e31bba64b-38](https://github.com/user-attachments/assets/07c0818c-8c56-4521-81d1-e470522d7a8f)
