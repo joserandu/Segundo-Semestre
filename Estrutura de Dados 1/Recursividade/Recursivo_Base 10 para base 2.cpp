@@ -14,6 +14,8 @@ int main() {
 	
 	setlocale(LC_ALL, "Portuguese");
 	
+	printf("Modo Recursivo\n");
+	
     int num;
     printf("Digite um número inteiro: ");
     scanf("%d", &num);
