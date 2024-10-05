@@ -225,8 +225,6 @@ int main() {
                 break;
         }
     }
-    
-    //fopen()
 
     return 0;
 }
