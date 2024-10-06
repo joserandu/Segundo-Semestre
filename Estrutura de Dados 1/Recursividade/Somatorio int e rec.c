@@ -3,7 +3,11 @@
 # include <locale.h>
 
 /*
-Exercício de Recursividade
+Crie um programa em C para calcular a soma dos números inteiros
+entre 1 e n, onde n é fornecido pelo usuário como entrada, com n
+maior que zero.
+Crie duas funções soma (uma recursiva e a outra não recursiva)
+que recebe como parâmetro de entrada o número lido.
 */
 
 int soma_r(int);

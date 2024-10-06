@@ -4,7 +4,19 @@
 #include <string.h>
 
 /*
-Exercício "Agenda de Contatos"
+Implementar em linguagem C uma aplicação que simule uma agenda de
+contatos, onde deverão ser cadastrados contatos com as seguintes
+informações: Nome do contato, e-mail do contato, número do telefone do
+contato (contendo informação de código regional), data de aniversário do
+contato.
+
+Seu programa deverá exibir através de um menu as seguintes opções: 1-
+para cadastrar novo contato; 2-para alterar dados de um contato; 3-para
+excluir os dados de um contato; 4 para exibir os dados de um contato
+específico; 5-para exibir os dados de todos os contatos; 6-para sair da
+aplicação.
+
+Os dados dos contatos deverão ser armazenados no arquivo DATA.TXT
 */
 
 #define TAM 100

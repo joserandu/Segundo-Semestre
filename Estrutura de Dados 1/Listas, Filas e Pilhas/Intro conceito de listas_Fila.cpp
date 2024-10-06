@@ -1,6 +1,15 @@
 #include <stdio.h>
 #include <locale.h>
 
+/*
+Funcionalidades a serem implementadas na estrutura FILA
+
+– Inserção, remoção, exibição dos elementos e suas respectivas posições
+na fila, verificação se a fila está vazia, verificação se a fila está cheia,
+localização de um elemento, retornando -1 se não estiver na fila e, a
+posição do elemento caso esteja na FILA.
+*/
+
 #define TAM_MAX 100
 
 int main() {

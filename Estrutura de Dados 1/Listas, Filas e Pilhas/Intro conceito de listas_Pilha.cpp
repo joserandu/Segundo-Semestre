@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <locale.h>
 
+/*
+- Funcionalidades a serem implementadas na estrutura PILHA
+
+– Inserção, remoção, Topo (mostra o elemento que está no topo da pilha
+mas não o remove) , verificação se a pilha está vazia, verificação se a
+pilha está cheia.
+*/
+
 #define TAM_MAX 100
 
 int main() {

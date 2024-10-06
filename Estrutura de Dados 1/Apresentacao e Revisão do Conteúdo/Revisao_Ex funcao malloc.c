@@ -3,7 +3,13 @@
 # include <locale.h>
 
 /*
-Exercício 1 e 2 - Revisão de Ponteiros
+Discuta, passo a passo, o efeito do seguinte fragmento de código:
+
+int *v;
+v = malloc (10 * sizeof (int));
+
+2. Elabore um programa em Linguagem C para testar esse fragmento de código
+identificando os endereços e conteúdos envolvidos.
 */
 
 int main() {

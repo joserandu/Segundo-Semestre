@@ -1,6 +1,11 @@
 # include <stdio.h>
 # include <locale.h>
 
+/*
+Escreva uma função recursiva que determine quantas vezes um
+dígito K ocorre em um número natural N.
+*/
+
 int contarDigito(int N, int K) {
     
     if (N == 0 && K == 0) {
@@ -20,6 +25,7 @@ int contarDigito(int N, int K) {
 }
 
 int main() {
+	setlocale(LC_ALL, "Portuguese");
     int N, K;
     
    
