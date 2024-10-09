@@ -8,7 +8,9 @@
 ## Avaliação 
 
 - <b>Prova Dissertativa</b>: 30% (foco na avaliação teórica)
+    - Dia 30/10 para fazer em casa no moodle
 - <b>Projeto Prático</b>: 30% (foco na aplicação prática)
+    - Fazer um projeto documentado utilizando os conhecimentos da matéria
 - <b>Apresentação Oral</b>: 20% (avaliação da comunicação e domínio do projeto)
 - <b>Exercícios Moodle</b>: 20% (incentivo à participação e melhoria contínua)
 
