@@ -33,3 +33,13 @@
 ![Material Auxiliar - Matriz Esparsa_page-0014](https://github.com/user-attachments/assets/64434cf5-0417-470b-8d9e-41839b791538)
 
 - Esse tipo de matriz programada sem arrays serve para dar rendimento.
+
+# Segunda parte
+
+- Pedir para o professor mandar o slide
+
+- Árvore binária economiza os dados demais.
+
+- Para a nossa avaliação vamos ver até matriz, e os algoritmos de ordenação será na segunda parte do curso.
+
+- A prova será dia 8/11.
