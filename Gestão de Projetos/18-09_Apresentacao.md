@@ -9,7 +9,7 @@
 - <b>Apresentação Oral</b>: 20% (avaliação da comunicação e domínio do projeto)
 - <b>Exercícios Moodle</b>: 20% (incentivo à participação e melhoria contínua)
 
-<p>Os Instrumentos de Avaliação da Aprendizagem terão prazos fixos estabelecidos de acordo com o cronograma do curso. Somente serão aceitas entregas fora do prazo mediante justificativas adequadas, alinhadas aos dispositivos de justificativas para Abono de Faltas descritos na Organização Didática do IFSP. É essencial que os alunos respeitem os prazos e organizem suas atividades de acordo com as datas estipuladas.</p>
+<p>Os Instrumentos de Avaliação da Aprendizagem terão prazos fixos estabelecidos de acordo com o cronograma do curso. Somente serão aceitas entregas fora do prazo mediante justificativas adequadas, alinhadas aos dispositivos de justificativas para Abono de Faltas descritos na Organização Didática do IFSP.</p>
 
 <p>É essencial que os alunos respeitem os prazos e organizem suas atividades de acordo com as datas estipuladas.</p>
 
@@ -61,7 +61,7 @@ https://eadcampus.spo.ifsp.edu.br/pluginfile.php/1102896/mod_resource/content/1/
 ![956492c4362836e067b6c8ce2103b4c3-18](https://github.com/user-attachments/assets/3aac4839-b5c1-4ead-8bf9-75748707caaf)
 
 - O tempo é um fator importante, pois a pressa ao fazer um projeto pode afetar diretamente a qualidade.
-- Esses são os três projetos que mais atingem a qualidade do projeto.
+- Esses são os três fatores que mais atingem a qualidade do projeto.
 
 ![956492c4362836e067b6c8ce2103b4c3-19](https://github.com/user-attachments/assets/1bb2ddef-717d-4d51-b262-f3bf5c390d1a)
 
