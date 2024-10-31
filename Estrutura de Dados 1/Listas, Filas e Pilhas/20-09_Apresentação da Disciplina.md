@@ -63,7 +63,10 @@ v = malloc (10 * sizeof (int));
 ![SPOEDD1-Aula00-Introdução e Revisão_page-0014](https://github.com/user-attachments/assets/2d4590c6-e1f3-4484-bf6f-591ab9c4fba5)
 ![SPOEDD1-Aula00-Introdução e Revisão_page-0015](https://github.com/user-attachments/assets/577fdfc0-814f-4feb-a3ae-8642abb7dbe3)
 
-- stackoverflow e underflow
+- Stackoverflow
+  - É um erro que acontece quando queremos colocar um elemento a mais em uma pilha que já está cheia.
+- Stackunderflow
+  - É o que acontece quando queremos tirar um valor de uma pilha que está vazia.
 
 ![SPOEDD1-Aula00-Introdução e Revisão_page-0016](https://github.com/user-attachments/assets/e3101e51-0f79-40b3-a108-97a359405809)
 ![SPOEDD1-Aula00-Introdução e Revisão_page-0017](https://github.com/user-attachments/assets/fb01a7d1-d19b-4b87-b75f-47d2cf64b436)
