@@ -1,6 +1,7 @@
 # Introdução ao Scrum
 
 - Data de entrega do trabalho (18/12)
+- Datas das apresentações: 5 e 12/02
 
 ![1cc38e246f70bac334fc0fef6a2260fe-0](https://github.com/user-attachments/assets/bbcf0c8d-c304-4ef7-a754-61bded52da95)
 ![1cc38e246f70bac334fc0fef6a2260fe-1](https://github.com/user-attachments/assets/5e518d56-df99-4ded-9233-2260c99b289c)
