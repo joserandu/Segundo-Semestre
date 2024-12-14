@@ -1,9 +1,11 @@
 def valida_nome(name):
-    """Arruma aquiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii return carai"""
     try:
-        name = str(name.title())
-    except: # colocar a saída para erro com número!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-        print("Erro no nome: O nome deve conter apenas letras.")
+        if not name.isalpha():
+            raise ValueError("O nome deve conter apenas letras.")
+        name = name.title()
+        return f"Nome formatado: {name}"
+    except ValueError as e:
+        return f"Erro no nome: {e}"
 
 
 def valida_email(email):
@@ -16,8 +18,8 @@ def valida_email(email):
         return f"Erro no e-mail: {e}"
 
 
-nome = input("Digite o seu nome: ")
-email = input("Digite o seu email: ")
+nome = input("Digite o seu nome completo: ")
+email = input("Digite o seu e-mail: ")
 
 print(valida_nome(nome))
 print(valida_email(email))
