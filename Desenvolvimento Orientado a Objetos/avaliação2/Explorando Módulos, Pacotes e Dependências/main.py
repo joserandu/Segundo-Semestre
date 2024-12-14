@@ -45,8 +45,7 @@ print(Style.RESET_ALL)
 print('back to normal now'
 """
 
-# Para ativar a função:
-# main()
+main()
 
 nome = input("Digite o seu nome: ")
 

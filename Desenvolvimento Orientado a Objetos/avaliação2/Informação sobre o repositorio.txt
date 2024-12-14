@@ -1,0 +1,63 @@
+Olá, professor!
+
+O link do repositório com os arquivos para avaliação estão nesse link:
+https://github.com/joserandu/Segundo-Semestre/tree/main/Desenvolvimento%20Orientado%20a%20Objetos/avalia%C3%A7%C3%A3o2
+
+Caso queira além de ler os códigos também testá-los, tem duas opções:
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+1ª opção (Executar dentro de uma IDE): 
+
+Clonar o repositório (git clone https://github.com/joserandu/Segundo-Semestre) e na sua IDE e navegar até o seguinte diretório:
+
+Segundo-Semestre\Desenvolvimento Orientado a Objetos\avaliação2
+
+Dentro estará as 3 pastas nas quais estão os arquivos das atividades sendo possível achar facilmente cada uma.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+2ª opção (Executar dentro do console):
+
+Aqui estão os comandos para ficar bem mais facil e rápido para encontrar os arquivos:
+
+git clone https://github.com/joserandu/Segundo-Semestre
+
+-> Primeiro arquivo
+
+O primeiro arquivo está nesse diretório:
+
+cd 'Desenvolvimento Orientado a Objetos'/avaliação2/'Explorando Módulos, Pacotes e Dependências'/
+
+Execute o arquivo:
+
+python main.py
+
+Obs: Deixei todos os arquivos para executar com o mesmo nome para economizar o seu tempo.
+
+-> Segundo arquivo:
+
+Vá até o segundo diretório:
+
+cd ..
+cd 'Corrigindo Erros de Entrada do Usuário com Exceções e Manipulação de Strings'/
+
+Execute o arquivo:
+
+python main.py
+
+-> Terceiro arquivo:
+
+Vá para o terceiro diretório:
+
+cd ..
+cd 'Orientação a Objetos_Sistema de Gestão de Eventos Acadêmicos'/
+
+Execute o arquivo:
+
+python main.py
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Se algum desses comandos não estiverem funcionando, ou tiver qualquer outro problema, me mande mensagem!
+Muito obrigado por possibilitar que eu entregue dessa maneira, professor!

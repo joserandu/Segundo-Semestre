@@ -1,11 +1,11 @@
 def valida_nome(name):
     try:
-        if not name.isalpha():
+        if not all(char.isalpha() or char.isspace() for char in name):
             raise ValueError("O nome deve conter apenas letras.")
         name = name.title()
         return f"Nome formatado: {name}"
     except ValueError as e:
-        return f"Erro no nome: {e}"
+        return f"{e}"
 
 
 def valida_email(email):
