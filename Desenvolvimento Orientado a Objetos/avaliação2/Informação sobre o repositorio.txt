@@ -1,5 +1,7 @@
 Olá, professor!
 
+Como combinado, posto a dificuldade funcional que o colab estava apresentando, aqui está o link com os arquivos que eu escrevi para essa atividade. Queria te mandar a pasta, mas o moodle não permite isso.
+
 O link do repositório com os arquivos para avaliação estão nesse link:
 https://github.com/joserandu/Segundo-Semestre/tree/main/Desenvolvimento%20Orientado%20a%20Objetos/avalia%C3%A7%C3%A3o2
 
