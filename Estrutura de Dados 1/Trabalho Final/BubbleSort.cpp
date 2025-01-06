@@ -33,8 +33,10 @@ int le_arquivo(int TAM){	/* faz a abertura do arquivo e leitura de uma quantidad
 int main(int argc, char *argv[]) {
 	setlocale(LC_ALL, "Portuguese");
 	
-	int i, j, x;
+	// Variáveis do algorítmo de ordenação
+	int i, j, temp;	
 	
+	// Variáveis de configuração da atividade (Não apagar)
 	double soma, media;
 	int ww;
 	int tam_ordenar = 5000;  /* quero ordenar apenas tam_ordenar */
@@ -50,14 +52,16 @@ int main(int argc, char *argv[]) {
 		clock_t begin = clock();		/* tempo inicial */
 
 
-		for (i = 1; i < tam_ordenar; i++) { 
-		    x = vet[i];
-		    for (j = i; j > 0 && x < vet[j - 1]; j--) { 
-        		vet[j] = vet[j - 1];
-   			}
-    		vet[j] = x;
+		for (i=0; i<tam_ordenar-1; i++){
+			for (j=0; j<tam_ordenar-i-1; j++){
+				if (vet[j] > vet[j+1]){
+					temp = vet[j];
+					vet[j] = vet[j+1];
+					vet[j+1] = temp;
+				}
+			}
 		}
-	
+
 		clock_t end = clock();		/* tempo final */
 
 		/* 	calculate elapsed time by finding difference (end - begin) and
